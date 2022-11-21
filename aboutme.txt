@@ -1,0 +1,8 @@
+<span id="a"><span style="color:red;">root</span>@Santosh</span>:<span id="b">~</span><span id="c">$</span> whoami
+<p> Santosh Tiwari s.s.t @Santosh </p>
+<span id="a"><span style="color:red;">root</span>@Santosh</span>:<span id="b">~</span><span id="c">$</span> cat about_me.txt
+<p>Hey! I am Santosh Tiwari from India, and I am an Ethical Hacker, Bug Bounty Researcher and a Cybersecurity Enthusiast. I am currently Completed my Graduation Bachelor's in BCA. I love computers and tinkering! Wanna check my GitHub repos? <a target="_blank" href="https://github.com/devurl/">There you go.</a></p>
+<span id="a"><span style="color:red;">root</span>@Santosh</span>:<span id="b">~</span><span id="c">$</span> cat contact_me.txt
+<p>If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an <a href="mailto: mail@don_t_replay@yahoo.com">email</a></br></p>
+<span id="a"><span style="color:red;">root</span>@Santosh</span>:<span id="b">~</span><span id="c">$</span> exit
+Keep Hustling, Keep Hacking!
