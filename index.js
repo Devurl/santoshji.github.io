@@ -110,4 +110,4 @@ function t() {
 	}
 }
  
- <img src="https://tryhackme-badges.s3.amazonaws.com/Sanu0.png" alt="TryHackMe" class="fix">
+<p style="text-align:center;"> <img src="https://tryhackme-badges.s3.amazonaws.com/Sanu0.png" alt="TryHackMe"></p>
