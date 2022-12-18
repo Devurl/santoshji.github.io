@@ -6,3 +6,7 @@
 <p>If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an <a href="mailto: mail@don_t_replay@yahoo.com">email</a></br></p>
 <span id="a"><span style="color:red;">root</span>@Santosh</span>:<span id="b">~</span><span id="c">$</span> exit
 Keep Hustling, Keep Hacking!
+
+<br>
+<p style="text-align:center;"> <img src="https://tryhackme-badges.s3.amazonaws.com/Sanu0.png" alt="TryHackMe"></p>
+
